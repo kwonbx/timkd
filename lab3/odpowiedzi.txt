@@ -1,0 +1,6 @@
+sample0: nie
+sample1: tak
+sample2: nie
+sample3: tak
+sample4: nie
+sample5: nie
