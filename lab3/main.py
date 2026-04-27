@@ -44,4 +44,4 @@ if __name__ == '__main__':
             text = f.read()
             
         analyze_text(text, max_order=3, mode='char')
-        analyze_text(text, max_order=2, mode='word')
+        analyze_text(text, max_order=3, mode='word')
